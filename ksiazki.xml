@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Tytul>Pomruk</Tytul>
+    <Autor>Michał Śmielak</Autor>
+    <Stan>TRUE</Stan>
+    <ID>1</ID>
+    <idu />
+  </Table1>
+  <Table1>
+    <Tytul>SEXEDPL</Tytul>
+    <Autor>Anja Rubik</Autor>
+    <Stan>TRUE</Stan>
+    <ID>2</ID>
+    <idu />
+  </Table1>
+  <Table1>
+    <Tytul>Makta siedzi z tyłu</Tytul>
+    <Autor>Joanna Mokosa-Rykalska</Autor>
+    <Stan>FALSE</Stan>
+    <ID>3</ID>
+    <idu>2</idu>
+  </Table1>
+</NewDataSet>

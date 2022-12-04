@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Imie>Adam</Imie>
+    <Nazwisko>Zaleski</Nazwisko>
+    <ID>1</ID>
+    <idk />
+  </Table1>
+  <Table1>
+    <Imie>Jakub</Imie>
+    <Nazwisko>Sudoł</Nazwisko>
+    <ID>2</ID>
+    <idk>3</idk>
+  </Table1>
+  <Table1>
+    <Imie>Mikołaj</Imie>
+    <Nazwisko>Krygier</Nazwisko>
+    <ID>3</ID>
+    <idk />
+  </Table1>
+</NewDataSet>

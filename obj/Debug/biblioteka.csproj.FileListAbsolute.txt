@@ -1,0 +1,13 @@
+C:\Users\adama\Source\Repos\x!\bin\Debug\biblioteka.exe.config
+C:\Users\adama\Source\Repos\x!\bin\Debug\biblioteka.exe
+C:\Users\adama\Source\Repos\x!\bin\Debug\biblioteka.pdb
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.csproj.AssemblyReference.cache
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.Form1.resources
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.Properties.Resources.resources
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.csproj.GenerateResource.cache
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.exe
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.pdb
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.Form2.resources
+C:\Users\adama\Source\Repos\x!\obj\Debug\biblioteka.Form3.resources
